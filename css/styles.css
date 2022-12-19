@@ -4,3 +4,33 @@
   background-color: #FFFFFF;
    padding: 2em;
 }
+a:link {
+  color: #F1F4F4;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #F1F4F4;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #F1F4F4;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.paddeddivtop{
+  padding-top: 15px;
+}
+.paddeddiv{
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
