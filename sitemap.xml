@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-        <url>
-    <loc>https://www.dgdservices.co/what-is-a-mcmansion.html</loc>
+  <url>
+    <loc>https://www.dgdservices.co/index.html</loc>
     <lastmod>2023-03-01</lastmod>
   </url>
     <url>
+    <loc>https://www.dgdservices.co/blog.html</loc>
+  </url>
+  <url>
+    <loc>https://www.dgdservices.co/what-is-a-mcmansion.html</loc>
+    <lastmod>2023-03-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.dgdservices.co/apartment-search-checklist.html</loc>
     <lastmod>2023-02-27</lastmod>
   </url>
@@ -15,9 +22,6 @@
   <url>
     <loc>https://www.dgdservices.co/summer-home-maintenance-checklist.html</loc>
     <lastmod>2023-02-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dgdservices.co/blog.html</loc>
   </url>
   <url>
     <loc>https://www.dgdservices.co/international-builders-show-2023-trip-report.html</loc>
